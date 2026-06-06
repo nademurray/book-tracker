@@ -2,6 +2,27 @@
   "last_updated": "2026-06-06",
   "books": [
     {
+      "id": "rpot1d",
+      "title": "Plus fort que moi",
+      "author": "Guillaume Dustan",
+      "date_finished": "2024",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-06"
+    },
+    {
       "id": "qeqlbd",
       "title": "À l'ami qui ne m'a pas sauvé la vie",
       "author": "Hervé Guibert",
