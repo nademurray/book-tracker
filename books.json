@@ -2,6 +2,27 @@
   "last_updated": "2026-06-06",
   "books": [
     {
+      "id": "yoadw9",
+      "title": "Voyage au bout de la nuit",
+      "author": "Céline",
+      "date_finished": "2023",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": "Painful, dark, hopeless, bleak",
+      "notes": null,
+      "warnings": "Great writing style but very brutal",
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-06"
+    },
+    {
       "id": "hj4w5w",
       "title": "De sel et du fumée",
       "author": "Agathe Sainte-Maur",
