@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-05-02",
+  "last_updated": "2026-06-06",
   "books": [
+    {
+      "id": "qeqlbd",
+      "title": "À l'ami qui ne m'a pas sauvé la vie",
+      "author": "Hervé Guibert",
+      "date_finished": "6-6-2026",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Autobiographie"
+      ],
+      "themes": [
+        "Le sida",
+        "la mort",
+        "l'amitié"
+      ],
+      "mood": "Lourd",
+      "notes": "Beautiful writing, difficult, slow read",
+      "warnings": "Heavy theme makes it unlikely I'll reread. It was more a cultural reference I felt I needed to understand for context, since so many other writers I read mention Guibert and this book.",
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-06"
+    },
     {
       "id": "m5cp7s",
       "title": "Les vacances du petit Renard",
