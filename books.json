@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-06-06",
+  "last_updated": "2026-06-14",
   "books": [
+    {
+      "id": "tovn5a",
+      "title": "Une pension en Italie",
+      "author": "Philippe Besson",
+      "date_finished": "2026",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman",
+        "biographie"
+      ],
+      "themes": [
+        "L'histoire de famille",
+        "la honte",
+        "les années 1960",
+        "l'amour"
+      ],
+      "mood": "Touchant, admiratif",
+      "notes": "Wonderful story of Besson's grandfather, Paul, who he never knew and how he fell in love with Sandro in Tuscany in 1964. Uplifting and moving. Made me think about my own family history and secrets and forever grudges. \"On ne va pas s'imposer dans la vie des autres.\" Makes me think of my own father, who I haven't known in many years.",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": "https://books.google.com/books/content?id=Ylu60QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "google_books_id": "Ylu60QEACAAJ",
+      "isbn": "9782260056782",
+      "added_on": "2026-06-14"
+    },
     {
       "id": "yoadw9",
       "title": "Voyage au bout de la nuit",
