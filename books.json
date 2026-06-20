@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-20",
   "books": [
+    {
+      "id": "41ire7",
+      "title": "La vie privée",
+      "author": "Olivier Steiner",
+      "date_finished": "06-20-2026",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman",
+        "autofiction"
+      ],
+      "themes": [
+        "La mort",
+        "la domination",
+        "la soumission",
+        "l'amitié",
+        "la mortalité"
+      ],
+      "mood": "Poétique, lyrique, intense",
+      "notes": "Writing style is excellent and great for reading aloud. The juxtaposition of the two storylines is masterful and adds to the reading pleasure. The sadomasochism is surprisingly relevant and well done and propels the novel forward at a fast pace. The overall effect of the book is disorienting and peaceful at the same time. We have no idea what happens to Olivier (the character) next.",
+      "warnings": null,
+      "series": "Tryptiche autobiographique de l'auteur",
+      "series_position": 2,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-20"
+    },
     {
       "id": "tovn5a",
       "title": "Une pension en Italie",
