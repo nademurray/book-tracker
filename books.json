@@ -2,6 +2,27 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "a2flok",
+      "title": "Pussy",
+      "author": "Patrick Autréaux",
+      "date_finished": "2023-07-06",
+      "rating": null,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "azds7r",
       "title": "L'homme de trop",
       "author": "Dominique Fernandez",
