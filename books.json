@@ -2,6 +2,32 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "krb86w",
+      "title": "Le jardin d'acclimatation",
+      "author": "Yves Navarre",
+      "date_finished": "2023-03-31",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": [
+        "Père et fils",
+        "la famille",
+        "le contrôle",
+        "la cruauté"
+      ],
+      "mood": "Sad, depressing",
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "eho9ll",
       "title": "Le temps voulu",
       "author": "Yves Navarre",
