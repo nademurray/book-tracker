@@ -2,6 +2,27 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "zs5w7p",
+      "title": "Un certain Paul Darrigrand",
+      "author": "Philippe Besson",
+      "date_finished": "2022-09-01",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": "Slows down during the sickness parts",
+      "series": "Autobiographical trio",
+      "series_position": 2,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "z5z2ny",
       "title": "Dîner à Montréal",
       "author": "Philippe Besson",
