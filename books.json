@@ -2,6 +2,31 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "dqxpiu",
+      "title": "La vie rêvée des hommes",
+      "author": "François Roux",
+      "date_finished": "2023-09-16",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "L'amour"
+      ],
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "enrfeh",
       "title": "Good Boy",
       "author": "Antoine Charbonneau-Demers",
