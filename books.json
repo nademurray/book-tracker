@@ -2,6 +2,33 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "y6cmf1",
+      "title": "Les enfants terribles",
+      "author": "Jean Cocteau",
+      "date_finished": "2023-06-07",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "L'inceste",
+        "l'obsession",
+        "la domination"
+      ],
+      "mood": "Bizarre, eccentric, everything is not what it seems",
+      "notes": "Originality, never knew what to expect",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "e7wfyp",
       "title": "En aller simple",
       "author": "Cédric Hermann",
