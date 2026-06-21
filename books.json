@@ -2,6 +2,27 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "x93j0h",
+      "title": "Retour parmi les hommes",
+      "author": "Philippe Besson",
+      "date_finished": "2022-12-16",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "jgxsk3",
       "title": "Le garçon from L.A.",
       "author": "Tadzio Alicante",
