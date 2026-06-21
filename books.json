@@ -2,6 +2,27 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "azds7r",
+      "title": "L'homme de trop",
+      "author": "Dominique Fernandez",
+      "date_finished": "2023-06-24",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": null,
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": "L'homme de trop (diptyque)",
+      "series_position": 1,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "mtb01h",
       "title": "L'homme de trop, 2",
       "author": "Dominique Fernandez",
