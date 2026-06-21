@@ -2,6 +2,29 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "mtb01h",
+      "title": "L'homme de trop, 2",
+      "author": "Dominique Fernandez",
+      "date_finished": "2023-07-16",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": null,
+      "mood": null,
+      "notes": null,
+      "warnings": "Writing style is dense and can be digressive and a bit pedantic",
+      "series": "L'homme de trop (diptyque)",
+      "series_position": 2,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "p3ofe8",
       "title": "Le corps des anges",
       "author": "Mathieu Riboulet",
