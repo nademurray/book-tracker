@@ -2,6 +2,32 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "e7wfyp",
+      "title": "En aller simple",
+      "author": "Cédric Hermann",
+      "date_finished": "2023-06-16",
+      "rating": null,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "Premier amour",
+        "l'adolescence"
+      ],
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "a2flok",
       "title": "Pussy",
       "author": "Patrick Autréaux",
