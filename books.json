@@ -2,6 +2,29 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "rszp0k",
+      "title": "Frédéric - instants de grâce",
+      "author": "Dominique Faure",
+      "date_finished": "2023-01-10",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": null,
+      "mood": null,
+      "notes": "The love story",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "d7n5cf",
       "title": "Seth et le Garçon-Sirène",
       "author": "Yves Rozier",
