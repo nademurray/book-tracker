@@ -2,6 +2,32 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "xvnyvf",
+      "title": "Fou de Vincent",
+      "author": "Hervé Guibert",
+      "date_finished": "2023-03-12",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman",
+        "autofiction"
+      ],
+      "themes": [
+        "Premier amour"
+      ],
+      "mood": null,
+      "notes": null,
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "krb86w",
       "title": "Le jardin d'acclimatation",
       "author": "Yves Navarre",
