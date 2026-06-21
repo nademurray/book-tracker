@@ -2,6 +2,32 @@
   "last_updated": "2026-06-21",
   "books": [
     {
+      "id": "n3o0hh",
+      "title": "Julien aime le désert",
+      "author": "Jean Malroux",
+      "date_finished": "2023-09-02",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "L'amour",
+        "la jeunesse"
+      ],
+      "mood": "Romantic, uplifting",
+      "notes": "The love story between young Julien and older German man, Markus, the setting on the Italian island of Stromboli.",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-06-21"
+    },
+    {
       "id": "dqxpiu",
       "title": "La vie rêvée des hommes",
       "author": "François Roux",
