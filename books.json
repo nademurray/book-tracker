@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-07-19",
   "books": [
+    {
+      "id": "h2cqmw",
+      "title": "Cette histoire finit mal",
+      "author": "Ethan Sévenin",
+      "date_finished": "2024",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Coming of age"
+      ],
+      "themes": [
+        "Coming out",
+        "first love",
+        "first heartbreak"
+      ],
+      "mood": null,
+      "notes": "Love the passage on p. 107 about how the narrator loves hands, and their sensual description.",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-07-19"
+    },
     {
       "id": "zs5w7p",
       "title": "Un certain Paul Darrigrand",
