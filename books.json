@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-07-19",
+  "last_updated": "2026-07-23",
   "books": [
+    {
+      "id": "gxsz96",
+      "title": "Comment attirer un millionnaire fans son lit",
+      "author": "Dieter Moitzi",
+      "date_finished": "2026-07-23",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman rom-com"
+      ],
+      "themes": [
+        "First love",
+        "assumptions",
+        "differences attract"
+      ],
+      "mood": "Light",
+      "notes": "Good light-hearted fun. Could easily be a movie. Nice break from heavy themes.",
+      "warnings": "Predictable since it's a genre novel. By the end I was ready for literary fiction again, especially for style and deeper thinking.",
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-07-23"
+    },
     {
       "id": "h2cqmw",
       "title": "Cette histoire finit mal",
