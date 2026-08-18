@@ -2,6 +2,36 @@
   "last_updated": "2026-08-18",
   "books": [
     {
+      "id": "2n7f5o",
+      "title": "Romances sans paroles",
+      "author": "Yves Navarre",
+      "date_finished": "2026-08-17",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "Amour",
+        "couples",
+        "amitié",
+        "famille",
+        "histoires",
+        "écriture"
+      ],
+      "mood": "Reflective",
+      "notes": "Poetic and musical style; each story rewrites earlier, connected stories; finishing makes me want to start at the beginning again now that I've learned from the rest.",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-08-18"
+    },
+    {
       "id": "q6eo0t",
       "title": "Le Héros et les autres",
       "author": "Antonin Crenin",
