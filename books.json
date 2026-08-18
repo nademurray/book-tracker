@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-08-18",
   "books": [
+    {
+      "id": "q6eo0t",
+      "title": "Le Héros et les autres",
+      "author": "Antonin Crenin",
+      "date_finished": "2026-08-01",
+      "rating": 4,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "Adolescence",
+        "amitié"
+      ],
+      "mood": "Introspective, quiet, brooding",
+      "notes": "Like the writing style",
+      "warnings": "Lots of descriptions of the physical setting, which seems overly slow",
+      "series": null,
+      "series_position": null,
+      "would_recommend": null,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-08-18"
+    },
     {
       "id": "gxsz96",
       "title": "Comment attirer un millionnaire fans son lit",
