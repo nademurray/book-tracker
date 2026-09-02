@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-09-02",
   "books": [
+    {
+      "id": "vl1ojr",
+      "title": "Ton père",
+      "author": "Christophe Honoré",
+      "date_finished": "2026-09-02",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "Fatherhood",
+        "shame",
+        "homophobia",
+        "memory"
+      ],
+      "mood": "Varies between light and reflective, comic and serious",
+      "notes": "Writing style. That when the narrator gets very self- reflective, Honoré knows how much is enough and moves on. Story seems like it could easily be a movie. Fun list of gay authors in an early chapter, since many are writers I also enjoy.",
+      "warnings": null,
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-09-02"
+    },
     {
       "id": "2n7f5o",
       "title": "Romances sans paroles",
