@@ -1,6 +1,33 @@
 {
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-10-14",
   "books": [
+    {
+      "id": "gpy78t",
+      "title": "Une éducation libertine",
+      "author": "Jean-Baptiste Del Amo",
+      "date_finished": "2026-10-14",
+      "rating": 5,
+      "language": "fr",
+      "original_language": "fr",
+      "genre": [
+        "Roman"
+      ],
+      "themes": [
+        "La culpabilité",
+        "l'impossibilité d'échapper de son enfance",
+        "la noirceur de l'âme"
+      ],
+      "mood": "Sensual, dark, painful",
+      "notes": "A delight to read aloud as if Del Amo writes in poetry despite the revulsion inspired by what is being conveyed by the beautiful sounding words, as if the contrast parallels the themes of the novel.",
+      "warnings": "Cutting (self-harm) like A Little Life. Another wonderful book with passages that are almost painful to read.",
+      "series": null,
+      "series_position": null,
+      "would_recommend": true,
+      "cover_url": null,
+      "google_books_id": null,
+      "isbn": null,
+      "added_on": "2026-10-14"
+    },
     {
       "id": "vl1ojr",
       "title": "Ton père",
